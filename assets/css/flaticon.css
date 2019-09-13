@@ -1,0 +1,61 @@
+	/*
+  	Flaticon icon font: Flaticon
+  	Creation date: 16/12/2019 16:12
+  	*/
+
+@font-face {
+  font-family: "Flaticon";
+  src: url("../fonts/Flaticon.eot");
+  src: url("../fonts/Flaticond41d.eot?#iefix") format("embedded-opentype"),
+       url("../fonts/Flaticon.woff") format("woff"),
+       url("../fonts/Flaticon.ttf") format("truetype"),
+       url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+@media screen and (-webkit-min-device-pixel-ratio:0) {
+  @font-face {
+    font-family: "Flaticon";
+    src: url("../fonts/Flaticon.svg#Flaticon") format("svg");
+  }
+}
+
+[class^="flaticon-"]:before, [class*=" flaticon-"]:before,
+[class^="flaticon-"]:after, [class*=" flaticon-"]:after {   
+  font-family: Flaticon;
+  font-size: inherit;
+  font-style: normal;
+}
+
+
+
+.flaticon-consulting:before { content: "\f100"; }
+.flaticon-advertising:before { content: "\f101"; }
+.flaticon-diagram:before { content: "\f102"; }
+.flaticon-goal:before { content: "\f103"; }
+.flaticon-meeting:before { content: "\f104"; }
+.flaticon-checklist:before { content: "\f105"; }
+.flaticon-computer:before { content: "\f106"; }
+.flaticon-layers:before { content: "\f107"; }
+.flaticon-computer-graphic:before { content: "\f108"; }
+.flaticon-pencil-case:before { content: "\f109"; }
+.flaticon-graphic-tool:before { content: "\f10a"; }
+.flaticon-ui:before { content: "\f10b"; }
+.flaticon-palette:before { content: "\f10c"; }
+.flaticon-paint-palette:before { content: "\f10d"; }
+.flaticon-sketch:before { content: "\f10e"; }
+.flaticon-blueprint:before { content: "\f10f"; }
+.flaticon-home:before { content: "\f110"; }
+.flaticon-intellectual:before { content: "\f111"; }
+.flaticon-organize:before { content: "\f112"; }
+.flaticon-shopping-cart:before { content: "\f113"; }
+.flaticon-shopping-cart-1:before { content: "\f114"; }
+.flaticon-shopping-cart-2:before { content: "\f115"; }
+.flaticon-phone-call:before { content: "\f116"; }
+.flaticon-call:before { content: "\f117"; }
+.flaticon-email:before { content: "\f118"; }
+.flaticon-envelope:before { content: "\f119"; }
+.flaticon-route:before { content: "\f11a"; }
+.flaticon-placeholder:before { content: "\f11b"; }
+.flaticon-location:before { content: "\f11c"; }
